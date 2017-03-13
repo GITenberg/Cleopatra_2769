@@ -1,5 +1,8 @@
 _repo: Cleopatra_2769
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -36,6 +39,8 @@ description: "Cleopatra: Being an Account of the Fall and Vengeance of Harmachis
   \ gave the novel a mixed review, saying that it combined \"a not always believable\
   \ portrait\" of its title heroine with a \"fascinating, wholly convincing\" story\
   \ line.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2769#Cleopatra
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
 identifiers:
